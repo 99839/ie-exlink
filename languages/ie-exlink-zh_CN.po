@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ie exLink\n"
+"POT-Creation-Date: 2023-03-27 14:56+0800\n"
+"PO-Revision-Date: 2023-03-27 14:56+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ie-exlink.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: core/class-ie-exlink.php:55
+msgid "You are not allowed to clone this class."
+msgstr "不允许克隆此类。"
+
+#: core/class-ie-exlink.php:66
+msgid "You are not allowed to unserialize this class."
+msgstr "不允许反序列化此类。"
+
+#: core/includes/classes/class-ie-exlink-run.php:73
+msgid "ietheme"
+msgstr "Ietheme"
+
+#: core/includes/classes/class-ie-exlink-settings.php:38
+msgid "Ie exLink Setting"
+msgstr "ie exLink 设置"
+
+#: core/includes/classes/class-ie-exlink-settings.php:39
+msgid "General options for enExlink"
+msgstr "enExlink 的一般选项"
+
+#: core/includes/classes/class-ie-exlink-settings.php:56
+msgid "Enable linkWarning"
+msgstr "启用链接警告"
+
+#: core/includes/classes/class-ie-exlink-settings.php:57
+msgid "clicked enable external links warning"
+msgstr "单击启用外部链接警告"
+
+#: core/includes/classes/class-ie-exlink-settings.php:63
+msgid "Auto add noFollow"
+msgstr "自动添加noFollow"
+
+#: core/includes/classes/class-ie-exlink-settings.php:64
+msgid "external links auto add nofollow"
+msgstr "外部链接自动添加 nofollow"
+
+#: core/includes/classes/class-ie-exlink-settings.php:70
+msgid "ShowUrl"
+msgstr "显示网址"
+
+#: core/includes/classes/class-ie-exlink-settings.php:71
+msgid "show external link in popup"
+msgstr "在弹窗中显示外部链接"
+
+#: core/includes/classes/class-ie-exlink-settings.php:77
+msgid "Warning text"
+msgstr "警告文本"
+
+#: core/includes/classes/class-ie-exlink-settings.php:78
+msgid "custom popup warning text here"
+msgstr "此处自定义弹出警告文本"
+
+#: core/includes/classes/class-ie-exlink-settings.php:79
+#: core/includes/classes/class-ie-exlink-settings.php:81
+msgid ""
+"You are about to leave this website and navigate to the link below. Would "
+"you like to continue?"
+msgstr "您即将离开本网站并导航到下面的链接。是否要继续？"
+
+#: core/includes/classes/class-ie-exlink-settings.php:85
+msgid "Cancel Button"
+msgstr "“取消”按钮"
+
+#: core/includes/classes/class-ie-exlink-settings.php:86
+msgid "custom cancel button text"
+msgstr "自定义“取消”按钮文本"
+
+#: core/includes/classes/class-ie-exlink-settings.php:87
+#: core/includes/classes/class-ie-exlink-settings.php:89
+msgid "Cancel"
+msgstr "取消"
+
+#: core/includes/classes/class-ie-exlink-settings.php:94
+msgid "Continue Button"
+msgstr "\"继续\"按钮"
+
+#: core/includes/classes/class-ie-exlink-settings.php:95
+msgid "custom continue button text"
+msgstr "自定义“继续”按钮文本"
+
+#: core/includes/classes/class-ie-exlink-settings.php:96
+#: core/includes/classes/class-ie-exlink-settings.php:98
+msgid "Continue"
+msgstr "继续"
+
+#: core/includes/classes/class-ie-exlink-settings.php:103
+msgid "External link color"
+msgstr "外部链接颜色"
+
+#: core/includes/classes/class-ie-exlink-settings.php:104
+msgid "custom external link color"
+msgstr "自定义外部链接颜色"
+
+#: core/includes/classes/class-ie-exlink_settings_api.php:359
+msgid "Choose File"
+msgstr "选择文件"
+
+#. Plugin Name of the plugin/theme
+msgid "ie exLink"
+msgstr "ie exLink"
+
+#. Plugin URI of the plugin/theme
+msgid "https://mydomain.com"
+msgstr "https://mydomain.com"
+
+#. Description of the plugin/theme
+msgid "a plugin simplifies the task of opening external links in a new tab"
+msgstr "一个简单的插件简化了在新选项卡中打开外部链接的任务"
+
+#. Author of the plugin/theme
+msgid "99839"
+msgstr "99839"
+
+#. Author URI of the plugin/theme
+msgid "https://ietheme.com"
+msgstr "https://ietheme.com"
+
+#~ msgid ""
+#~ "This is some demo text coming from the backend through a variable within "
+#~ "javascript."
+#~ msgstr "这是一些通过javascript中的变量来自后端的演示文本。"
